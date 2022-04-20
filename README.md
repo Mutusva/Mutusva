@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Innocent Zvovuranda.
 
-<!--
 **Mutusva/Mutusva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on perfecting Golang as a software engineer and system design
 - 🌱 I’m currently learning Solidity and web3
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mutusvainno@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I hurt heights, only feel safe in an aeroplane
--->
