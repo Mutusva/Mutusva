@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Innocent Zvovuranda.
 
-**Mutusva/Mutusva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on perfecting Golang as a software engineer and system design
 - 🌱 I’m currently learning Solidity and web3
 - 👯 I’m looking to collaborate on any Golang open source projects
