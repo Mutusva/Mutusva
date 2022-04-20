@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on any Golang open source projects
 - 🤔 I’m looking for help on System Design and architecture
 - 💬 Ask me about javascript
-- 📫 How to reach me: mutusvainno@gmail.com
+- 📫 How to reach me: Twitter @dimyzvoz, linkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I hurt heights, only feel safe in an aeroplane
