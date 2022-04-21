@@ -7,4 +7,4 @@
 - 💬 Ask me about javascript
 - 📫 How to reach me: Twitter @dimyzvoz, linkedIn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I hurt heights, only feel safe in an aeroplane
+- ⚡ Fun fact: I hate heights, only feel safe in an aeroplane
